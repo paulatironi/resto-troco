@@ -1,4 +1,4 @@
-Algoritmo "terreno"
+Algoritmo "resto de troco"
 
 Var
 
